@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jasabc.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/jasabc.github.io/static/js/main.4e945710.chunk.js",
+    "main.js.map": "/jasabc.github.io/static/js/main.4e945710.chunk.js.map",
+    "runtime-main.js": "/jasabc.github.io/static/js/runtime-main.45fba1dd.js",
+    "runtime-main.js.map": "/jasabc.github.io/static/js/runtime-main.45fba1dd.js.map",
+    "static/js/2.3a4a000d.chunk.js": "/jasabc.github.io/static/js/2.3a4a000d.chunk.js",
+    "static/js/2.3a4a000d.chunk.js.map": "/jasabc.github.io/static/js/2.3a4a000d.chunk.js.map",
+    "index.html": "/jasabc.github.io/index.html",
+    "precache-manifest.e4fddb2eaba618641bbf40f4281d124b.js": "/jasabc.github.io/precache-manifest.e4fddb2eaba618641bbf40f4281d124b.js",
+    "service-worker.js": "/jasabc.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/jasabc.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3a4a000d.chunk.js.LICENSE.txt": "/jasabc.github.io/static/js/2.3a4a000d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/jasabc.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45fba1dd.js",
+    "static/js/2.3a4a000d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4e945710.chunk.js"
+  ]
+}
