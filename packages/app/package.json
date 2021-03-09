@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "version": "0.0.1",
+  "version": "1.0.1",
   "description": "My first lerna app",
   "author": "siggy <johnsigsworth@live.co.uk>",
   "homepage": "https://github.com/jasabc/jasabc.github.io#readme",
@@ -25,6 +25,6 @@
     "url": "https://github.com/jasabc/jasabc.github.io/issues"
   },
   "dependencies": {
-    "lib": "^0.0.1"
+    "lib": "^1.0.1"
   }
 }
